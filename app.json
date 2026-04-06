@@ -1,0 +1,23 @@
+{
+  "name": "X-PRIME",
+  "description": "X PRIME WhatsApp Bot",
+  "logo": "https://files.catbox.moe/38p64y.jpg",
+  "keywords": [
+    "whatsapp-bot"
+  ],
+  "repository": "https://github.com/CRIMEX-X61/X-PRIME-",
+  "stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": "Your WhatsApp session ID (must start with X-PRIME:~)",
+      "required": false
+    }
+  },
+  "buildpacks": [],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  }
+}
