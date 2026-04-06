@@ -20,7 +20,7 @@
 
 <br/>
 
-<a href="https://github.com/CRIMEX-X61/X-PRIME-.git/fork">
+<a href="https://github.com/Crimex-X-Hacking/X-PRIME-BOT/fork">
   <img src="https://img.shields.io/badge/FORK%20REPO-FF69B4?style=for-the-badge&logo=github&logoColor=FFD700" height="100"/>
 </a>
 <br/><strong>FORK REPOSITORY</strong>
