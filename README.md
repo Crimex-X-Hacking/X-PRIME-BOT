@@ -13,7 +13,7 @@
 
 <br/>
 
-<a href="https://t.me/CRIMEX_X_HACKER">
+<a href="https://t.me/CRIMEX_X_HACKING">
   <img src="https://img.shields.io/badge/X PRIME-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="100"/>
 </a>
 <br/><strong>TELEGRAM</strong>
